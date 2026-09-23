@@ -40,6 +40,6 @@ Graduate researcher focusing on **AI for Disaster Prevention** and **Computer Vi
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eth4nY&show_icons=true&theme=tokyonight&hide_border=true" alt="Eth4nY's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eth4nY&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eth4nY&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eth4nY&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
